@@ -1,5 +1,5 @@
 ### Hi there 👋
-⏳ Year progress { █████████████████████████████▁ } 99.93 %
+⏳ Year progress { ▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁ } 0.01 %
 ---
-⏰ Updated on Sun, 31 Dec 2023 18:06:30 GMT
+⏰ Updated on Mon, 01 Jan 2024 00:33:39 GMT
 ![Progress Bar CI](https://github.com/Moyi321/Moyi321/workflows/Progress%20Bar%20CI/badge.svg)
